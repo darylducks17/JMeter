@@ -6,4 +6,4 @@ Learning JMeter for Performance Testing
 - Assertions
 - Listeners
 - Timers 
-- Logic Controllers
+- Logic Controllers: loop, recording 
